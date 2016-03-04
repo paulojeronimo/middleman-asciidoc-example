@@ -5,7 +5,7 @@ gem 'middleman', '~> 3.3.7'
 # Live-reloading plugin
 gem 'middleman-livereload', '~> 3.4.2'
 
-gem 'slim', '~> 2.1.0'
+gem 'slim'
 
 # Activate support for AsciiDoc
 gem 'asciidoctor', '~> 1.5.2'
